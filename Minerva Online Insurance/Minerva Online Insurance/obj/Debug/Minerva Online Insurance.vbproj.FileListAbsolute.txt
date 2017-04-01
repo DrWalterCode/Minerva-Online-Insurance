@@ -1,0 +1,3 @@
+C:\Users\walte\AppData\Local\Temporary Projects\Minerva Online Insurance\bin\Debug\Minerva Online Insurance.exe.config
+C:\Users\walte\Documents\Visual Studio 2015\Projects\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\Minerva Online Insurance.exe.config
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\Minerva Online Insurance.exe.config
