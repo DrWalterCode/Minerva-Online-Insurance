@@ -1,3 +1,56 @@
 C:\Users\walte\AppData\Local\Temporary Projects\Minerva Online Insurance\bin\Debug\Minerva Online Insurance.exe.config
 C:\Users\walte\Documents\Visual Studio 2015\Projects\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\Minerva Online Insurance.exe.config
 C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\Minerva Online Insurance.exe.config
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\Minerva Online Insurance.exe
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\Minerva Online Insurance.pdb
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\Minerva Online Insurance.xml
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\obj\Debug\Minerva Online Insurance.vbprojResolveAssemblyReference.cache
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\obj\Debug\Minerva_Online_Insurance.Form1.resources
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\obj\Debug\Minerva_Online_Insurance.Resources.resources
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\obj\Debug\Minerva Online Insurance.vbproj.GenerateResource.Cache
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\obj\Debug\Minerva Online Insurance.exe
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\obj\Debug\Minerva Online Insurance.xml
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\obj\Debug\Minerva Online Insurance.pdb
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\DevExpress.Data.v16.2.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\DevExpress.Utils.v16.2.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\DevExpress.XtraBars.v16.2.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\DevExpress.XtraBars.v16.2.xml
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\walte\Source\Repos\Minerva-Online-Insurance\Minerva Online Insurance\Minerva Online Insurance\obj\Debug\Minerva Online Insurance.exe.licenses

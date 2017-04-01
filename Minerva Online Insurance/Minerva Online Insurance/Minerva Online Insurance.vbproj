@@ -47,6 +47,10 @@
     <OptionInfer>On</OptionInfer>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="DevExpress.Data.v16.2, Version=16.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v16.2, Version=16.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v16.2, Version=16.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v16.2, Version=16.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Deployment" />
@@ -99,6 +103,7 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
@@ -117,6 +122,30 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\output_6w9etj.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contact us.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\our systems.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aon.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%29.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Minerva Online Insurance
+</name>
+</assembly>
+<members>
+<member name="T:Minerva_Online_Insurance.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Minerva_Online_Insurance.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Minerva_Online_Insurance.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Minerva_Online_Insurance.My.Resources.Resources.about">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Minerva_Online_Insurance.My.Resources.Resources.about1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Minerva_Online_Insurance.My.Resources.Resources.aon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Minerva_Online_Insurance.My.Resources.Resources.Capture">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Minerva_Online_Insurance.My.Resources.Resources.contact_us">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Minerva_Online_Insurance.My.Resources.Resources.download__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Minerva_Online_Insurance.My.Resources.Resources.our_systems">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Minerva_Online_Insurance.My.Resources.Resources.output_6w9etj">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
