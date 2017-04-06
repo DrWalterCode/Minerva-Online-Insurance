@@ -47,6 +47,11 @@ Minerva Online Insurance
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:Minerva_Online_Insurance.My.Resources.Resources.delaration">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:Minerva_Online_Insurance.My.Resources.Resources.download__1_">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
@@ -58,6 +63,21 @@ Minerva Online Insurance
 </summary>
 </member>
 <member name="P:Minerva_Online_Insurance.My.Resources.Resources.output_6w9etj">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Minerva_Online_Insurance.My.Resources.Resources.payment">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Minerva_Online_Insurance.My.Resources.Resources.vehicle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Minerva_Online_Insurance.My.Resources.Resources.vehicleeeee">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
